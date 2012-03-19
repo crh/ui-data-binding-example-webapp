@@ -21,4 +21,3 @@ script/*
 .mymetadata
 pom.xml.versionsBackup
 .checkstyle
-pom.xml
